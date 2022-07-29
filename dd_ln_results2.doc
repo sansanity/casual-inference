@@ -1,0 +1,82 @@
+{\rtf1\fs24
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx2592\clbrdrt\brdrs\cellx5328\clbrdrt\brdrs\cellx8064\clbrdrt\brdrs\cellx10800
+\ql \cell\qc (1)\cell\qc (2)\cell\qc (3)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx2592\cellx5328\cellx8064\cellx10800
+\ql \cell\qc basic\cell\qc fixedeff1\cell\qc fixedeff2\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx2592\cellx5328\cellx8064\cellx10800
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx2592\clbrdrb\brdrs\cellx5328\clbrdrb\brdrs\cellx8064\clbrdrb\brdrs\cellx10800
+\ql VARIABLES\cell\qc ln_total_emissions\cell\qc ln_total_emissions\cell\qc ln_total_emissions\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx2592\cellx5328\cellx8064\cellx10800
+\ql \cell\qc \cell\qc \cell\qc \cell\row
+\ql alberta\cell\qc 0.3573***\cell\qc 2.0834***\cell\qc -79.4229***\cell\row
+\ql \cell\qc (0.0459)\cell\qc (0.2165)\cell\qc (22.6975)\cell\row
+\ql post_treatment\cell\qc -1.3748***\cell\qc -2.1257***\cell\qc -1.7812***\cell\row
+\ql \cell\qc (0.0373)\cell\qc (0.0925)\cell\qc (0.1272)\cell\row
+\ql albxpost\cell\qc -0.5361***\cell\qc -0.5349***\cell\qc -0.7037***\cell\row
+\ql \cell\qc (0.0661)\cell\qc (0.0654)\cell\qc (0.0789)\cell\row
+\ql 2.province_code\cell\qc \cell\qc 1.6178***\cell\qc -73.1633***\cell\row
+\ql \cell\qc \cell\qc (0.2154)\cell\qc (20.8254)\cell\row
+\ql 3.province_code\cell\qc \cell\qc 1.4468***\cell\qc -66.5416***\cell\row
+\ql \cell\qc \cell\qc (0.2275)\cell\qc (18.9360)\cell\row
+\ql 4.province_code\cell\qc \cell\qc 2.1722***\cell\qc -58.9990***\cell\row
+\ql \cell\qc \cell\qc (0.2361)\cell\qc (17.0368)\cell\row
+\ql 5.province_code\cell\qc \cell\qc 2.7741***\cell\qc -51.6095***\cell\row
+\ql \cell\qc \cell\qc (0.2360)\cell\qc (15.1441)\cell\row
+\ql 6.province_code\cell\qc \cell\qc 0.4660\cell\qc -47.1201***\cell\row
+\ql \cell\qc \cell\qc (0.3312)\cell\qc (13.2566)\cell\row
+\ql 7.province_code\cell\qc \cell\qc 2.5585***\cell\qc -38.2410***\cell\row
+\ql \cell\qc \cell\qc (0.2402)\cell\qc (11.3638)\cell\row
+\ql 8.province_code\cell\qc \cell\qc 2.0284***\cell\qc -31.9685***\cell\row
+\ql \cell\qc \cell\qc (0.2586)\cell\qc (9.4693)\cell\row
+\ql 9.province_code\cell\qc \cell\qc 1.6941***\cell\qc -25.5156***\cell\row
+\ql \cell\qc \cell\qc (0.2153)\cell\qc (7.5790)\cell\row
+\ql 10.province_code\cell\qc \cell\qc 0.6522**\cell\qc -19.7648***\cell\row
+\ql \cell\qc \cell\qc (0.3311)\cell\qc (5.7014)\cell\row
+\ql 11.province_code\cell\qc \cell\qc 1.5868***\cell\qc -12.0328***\cell\row
+\ql \cell\qc \cell\qc (0.2175)\cell\qc (3.7999)\cell\row
+\ql 12.province_code\cell\qc \cell\qc 1.9336***\cell\qc -4.8721**\cell\row
+\ql \cell\qc \cell\qc (0.2187)\cell\qc (1.9043)\cell\row
+\ql 13o.province_code\cell\qc \cell\qc -\cell\qc -\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\row
+\ql 2005.year\cell\qc \cell\qc -0.1087\cell\qc -0.0921\cell\row
+\ql \cell\qc \cell\qc (0.1170)\cell\qc (0.1167)\cell\row
+\ql 2006.year\cell\qc \cell\qc -0.2134*\cell\qc -0.1744\cell\row
+\ql \cell\qc \cell\qc (0.1193)\cell\qc (0.1196)\cell\row
+\ql 2007.year\cell\qc \cell\qc -0.1994*\cell\qc -0.1393\cell\row
+\ql \cell\qc \cell\qc (0.1129)\cell\qc (0.1129)\cell\row
+\ql 2008.year\cell\qc \cell\qc -0.2469**\cell\qc -0.1664\cell\row
+\ql \cell\qc \cell\qc (0.1176)\cell\qc (0.1189)\cell\row
+\ql 2009.year\cell\qc \cell\qc -0.9582***\cell\qc -0.8593***\cell\row
+\ql \cell\qc \cell\qc (0.1087)\cell\qc (0.1111)\cell\row
+\ql 2010.year\cell\qc \cell\qc -0.8629***\cell\qc -0.7451***\cell\row
+\ql \cell\qc \cell\qc (0.1065)\cell\qc (0.1104)\cell\row
+\ql 2011.year\cell\qc \cell\qc -0.8740***\cell\qc -0.7367***\cell\row
+\ql \cell\qc \cell\qc (0.1058)\cell\qc (0.1107)\cell\row
+\ql 2012.year\cell\qc \cell\qc -0.9274***\cell\qc -0.7706***\cell\row
+\ql \cell\qc \cell\qc (0.1077)\cell\qc (0.1139)\cell\row
+\ql 2013.year\cell\qc \cell\qc -0.8930***\cell\qc -0.7165***\cell\row
+\ql \cell\qc \cell\qc (0.1028)\cell\qc (0.1115)\cell\row
+\ql 2014.year\cell\qc \cell\qc -0.9184***\cell\qc -0.7237***\cell\row
+\ql \cell\qc \cell\qc (0.1023)\cell\qc (0.1129)\cell\row
+\ql 2015.year\cell\qc \cell\qc -0.8977***\cell\qc -0.6838***\cell\row
+\ql \cell\qc \cell\qc (0.1035)\cell\qc (0.1163)\cell\row
+\ql 2016.year\cell\qc \cell\qc -1.0979***\cell\qc -0.8665***\cell\row
+\ql \cell\qc \cell\qc (0.1072)\cell\qc (0.1235)\cell\row
+\ql 2017.year\cell\qc \cell\qc 0.0689\cell\qc 0.0331\cell\row
+\ql \cell\qc \cell\qc (0.0552)\cell\qc (0.0561)\cell\row
+\ql 2018.year\cell\qc \cell\qc 0.0139\cell\qc -0.0036\cell\row
+\ql \cell\qc \cell\qc (0.0568)\cell\qc (0.0570)\cell\row
+\ql 2019o.year\cell\qc \cell\qc -\cell\qc -\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\row
+\ql provxt\cell\qc \cell\qc \cell\qc -0.0034***\cell\row
+\ql \cell\qc \cell\qc \cell\qc (0.0009)\cell\row
+\ql Constant\cell\qc 11.9006***\cell\qc 10.8976***\cell\qc 99.0557***\cell\row
+\ql \cell\qc (0.0259)\cell\qc (0.2282)\cell\qc (24.5564)\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\row
+\ql Observations\cell\qc 11,331\cell\qc 11,331\cell\qc 11,331\cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx2592\clbrdrb\brdrs\cellx5328\clbrdrb\brdrs\cellx8064\clbrdrb\brdrs\cellx10800
+\ql R-squared\cell\qc 0.1844\cell\qc 0.2239\cell\qc 0.2247\cell\row
+\pard\qc
+Robust standard errors in parentheses\par
+*** p<0.01, ** p<0.05, * p<0.1\par
+}
